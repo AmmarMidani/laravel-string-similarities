@@ -2,7 +2,7 @@
     "name": "ammarmidani/laravel-string-similarities",
     "description": "Compare between two strings and get a similarity percentage",
     "type": "library",
-    "version": "1.0.2",
+    "version": "2.0",
     "keywords": [
         "ammarmidani",
         "laravel-string-similarities",
