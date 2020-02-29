@@ -1,0 +1,35 @@
+{
+    "name": "ammarmidani/laravel-string-similarities",
+    "description": "Compare between two strings and get a similarity percentage",
+    "type": "library",
+    "version": "1.0.2",
+    "keywords": [
+        "ammarmidani",
+        "laravel-string-similarities",
+        "string",
+        "comparison",
+        "Levenshtein",
+        "Jaro",
+        "Winkler",
+        "Smith",
+        "Waterman",
+        "Gotoh"
+    ],
+    "homepage": "https://github.com/ammarmidani/laravel-string-similarities",
+    "license": "MIT",
+    "require": {
+        "php" : "~7.0"
+    },
+    "authors": [
+        {
+            "name": "Ammar Midani",
+            "email": "ammar.midani.1994@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AmmarMidani\\StringSimilarity\\": "src/"
+        }
+    }
+}
